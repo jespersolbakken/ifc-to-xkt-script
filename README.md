@@ -19,11 +19,12 @@ All files and folders should in the same directory:
 - xeokit-gltf-to-xkt-master/ 
 - COLLADA2GLTF-v2/
 
-How to use:
+## How to use:
 1. Navigate to the folder containing the converters
 2. open terminal and run the command ./converterifc.sh "INPUTFILE.IFC"
 3. decide if you want to keep the .dae and .gltf
 4. PROFIT! get the .xkt file
+
 
 ## Credits
 ### xeolabs for xeokit-gltf-to-xkt
@@ -32,11 +33,11 @@ How to use:
 
 
 ## Where to download
-## IfcConvert Mac OSX version 0.6.0 created by IfcOpenShell downloaded from: 
+### IfcConvert Mac OSX version 0.6.0 created by IfcOpenShell downloaded from: 
 http://ifcopenshell.org/ifcconvert
 
-## Collada osx version 2.1.5 created by KhronosGroup downloaded from:
+### Collada osx version 2.1.5 created by KhronosGroup downloaded from:
 https://github.com/KhronosGroup/COLLADA2GLTF/releases
 
-## xeokit-gltf-to-xkt created by xeolabs downloaded from:
+### xeokit-gltf-to-xkt created by xeolabs downloaded from:
 https://github.com/xeokit/xeokit-gltf-to-xkt
