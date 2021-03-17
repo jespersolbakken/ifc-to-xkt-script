@@ -19,7 +19,7 @@ All files and folders should in the same directory:
 - xeokit-gltf-to-xkt-master/ 
 - COLLADA2GLTF-v2/
 
-## How to use:
+## How to use
 1. Navigate to the folder containing the converters
 2. open terminal and run the command ./converterifc.sh "INPUTFILE.IFC"
 3. decide if you want to keep the .dae and .gltf
