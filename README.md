@@ -32,11 +32,11 @@ How to use:
 
 
 ## Where to download
-# IfcConvert Mac OSX version 0.6.0 created by IfcOpenShell downloaded from: 
+## IfcConvert Mac OSX version 0.6.0 created by IfcOpenShell downloaded from: 
 http://ifcopenshell.org/ifcconvert
 
-# Collada osx version 2.1.5 created by KhronosGroup downloaded from:
+## Collada osx version 2.1.5 created by KhronosGroup downloaded from:
 https://github.com/KhronosGroup/COLLADA2GLTF/releases
 
-# xeokit-gltf-to-xkt created by xeolabs downloaded from:
+## xeokit-gltf-to-xkt created by xeolabs downloaded from:
 https://github.com/xeokit/xeokit-gltf-to-xkt
