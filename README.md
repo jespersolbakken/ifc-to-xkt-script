@@ -10,6 +10,8 @@ Disclaimer: Use this at your own risk, I can not guarantee that the xkt files th
 
 ## Setup
 Download IfcConvert for Mac OSX, Collada OSX and xeokit-gltf-to-xkt following the guides on their sites.
+https://github.com/xeokit/xeokit-sdk/wiki/Creating-Files-for-Offline-BIM
+
 All files and folders should in the same directory:
 - converterifc.sh
 - "INPUTFILE.IFC"
