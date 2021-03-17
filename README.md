@@ -1,5 +1,5 @@
 # konverterifc
-Simple bash-script for macos that uses IfcConverter, Collada and xeokit-gltf-to-xkt to convert ifc files to xkt files for use with xeokit.
+Simple bash-script for MacOS that uses IfcConverter, Collada and xeokit-gltf-to-xkt to convert ifc files to xkt files for use with xeokit.
 I created this because I found it abit tedious to run the three programs after eachother to get the correct file for xekoit.
 The converters are NOT created by me and all credits go to their creators.(xeolab, IfcOpenSHell and KhronosGroup)
 
