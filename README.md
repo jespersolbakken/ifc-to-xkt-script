@@ -25,13 +25,18 @@ How to use:
 3. decide if you want to keep the .dae and .gltf
 4. PROFIT! get the .xkt file
 
-## Credits to xeolabs for xeokit and the converter, IfcOpenShell for IfcConvert and KhronosGroup for Collada
+## Credits
+### xeolabs for xeokit-gltf-to-xkt
+### IfcOpenShell for IfcConvert
+### KhronosGroup for Collada
 
-## IfcConvert Mac OSX version 0.6.0 created by IfcOpenShell downloaded from: 
+
+## Where to download
+# IfcConvert Mac OSX version 0.6.0 created by IfcOpenShell downloaded from: 
 http://ifcopenshell.org/ifcconvert
 
-## Collada osx version 2.1.5 created by KhronosGroup downloaded from:
+# Collada osx version 2.1.5 created by KhronosGroup downloaded from:
 https://github.com/KhronosGroup/COLLADA2GLTF/releases
 
-## xeokit-gltf-to-xkt created by xeolabs downloaded from:
+# xeokit-gltf-to-xkt created by xeolabs downloaded from:
 https://github.com/xeokit/xeokit-gltf-to-xkt
