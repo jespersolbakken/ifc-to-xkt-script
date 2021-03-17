@@ -2,7 +2,7 @@
 
 Simple bash-script for MacOS that uses IfcConverter, Collada and xeokit-gltf-to-xkt to convert ifc files to xkt files for use with xeokit.
 I created this because I found it abit tedious to run the three programs after eachother to get the correct file for xekoit.
-The converters are NOT created by me and all credits go to their creators.(xeolab, IfcOpenSHell and KhronosGroup)
+The converters are NOT created by me and all credits go to their creators.(xeolab, IfcOpenShell and KhronosGroup)
 
 
 Disclaimer: Use this at your own risk, I can not guarantee that the xkt files that comes out are not corrupted, but the input ifc file should not be changed in any way. The output file will be named the same as the input file and will overwrite existing files with same filename and filetype.
